@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UliSei
 - 👀 I’m interested in test automation and data science, visualization and music
-- 🌱 I’m currently learning about AGVs - automated guided vehicles
+- 🌱 I’m currently testing AGVs - automated guided vehicles
 - 💞️ I’m looking to collaborate on Robot Framework
 - 📫 How to reach me: info@seidel.graphics
 
